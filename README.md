@@ -1,11 +1,7 @@
 ## Hi 👋 I am Sheni!
-An experienced computer engineer. Currently working with NuxtJS.
-
-#### Connect with me:
+An experienced computer engineer, currently working with NuxtJS.
 [<img align="left" alt="shenihamitaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shenihamitaj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 [instagram]: https://www.instagram.com/shenihamitaj/
 [linkedin]: https://www.linkedin.com/in/shenihamitaj/

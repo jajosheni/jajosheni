@@ -1,7 +1,6 @@
-## Hi 👋 I am Sheni!
+## Hi 👋 I am Sheni, aka jajosheni!
 
 <p align = "center">
-An experienced computer engineer, currently working with NuxtJS.
 </br>
 <img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="790"/>
 </p>

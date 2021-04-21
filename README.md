@@ -1,7 +1,7 @@
 ## Hi 👋 I am Sheni!
 An experienced computer engineer, currently working with NuxtJS.
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" align="center"/>
+<img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center"/>
 
 #### Connect with me
 [<img align="left" alt="shenihamitaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

@@ -1,4 +1,4 @@
-## Hi 👋 I am Sheni, aka jajosheni!
+## Hi <img src="https://media1.tenor.com/images/009f66861b8e128c7731f58de6266a80/tenor.gif" width="36"/> I am Sheni, aka jajosheni!
 
 <p align = "center">
 </br>

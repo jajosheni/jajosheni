@@ -1,13 +1,16 @@
 ## Hi 👋 I am Sheni!
+
+<p align = "center">
 An experienced computer engineer, currently working with NuxtJS.
+</br>
+<img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="790"/>
+</p>
 <p align = "center">
   <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&show_icons=true&theme=radical&line_height=27">
   <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&show_icons=true&theme=radical&locale=en&layout=compact" alt="shenihamitaj" />
 </p>
-
-<img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center"/>
  
-#### Latest main technologies I've been working with
+<h4 align="center">Latest main technologies I've been working with:<h4>
 
 <p align="center">
   <a href="#"><code><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></code></a>

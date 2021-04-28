@@ -2,7 +2,7 @@
 
 <p align = "center">
 </br>
-<img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="790" height="330"/>
+<img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="815" height="330"/>
 </p>
 <p align = "center">
   <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">

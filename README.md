@@ -5,8 +5,8 @@
 <img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="790" height="330"/>
 </p>
 <p align = "center">
-  <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&line_height=27">
-  <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&line_height=27&locale=en&layout=compact" alt="shenihamitaj" />
+  <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=27&locale=en&layout=compact" alt="shenihamitaj" />
 </p>
  
 <h4 align="center">Latest main technologies I've been working with:<h4>

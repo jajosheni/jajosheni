@@ -8,8 +8,6 @@
   <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=27&locale=en&layout=compact" alt="shenihamitaj" />
 </p>
-
-<img height=175 src = "https://github-readme-streak-stats.herokuapp.com?user=jajosheni&theme=black-ice&hide_border=true">
  
 <h4 align="center">Latest main technologies I've been working with:<h4>
 

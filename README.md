@@ -1,13 +1,14 @@
 ## Hi <img src="https://media1.tenor.com/images/009f66861b8e128c7731f58de6266a80/tenor.gif" width="36"/> I am Sheni, aka jajosheni!
 
-<p align = "center">
+<p align="center">
 </br>
 <img src="https://raw.githubusercontent.com/jajosheni/jajosheni/main/ezgif.com-gif-maker.gif" align="center" width="815" height="330"/>
 </p>
-<p align = "center">
+<p align="center">
   <img height=175 src = "https://github-readme-stats.vercel.app/api?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=27&locale=en&layout=compact" alt="shenihamitaj" />
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jajosheni&theme=dracula)](https://git.io/streak-stats)
  
 <h4 align="center">Latest main technologies I've been working with:<h4>
 

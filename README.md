@@ -9,7 +9,7 @@
   <img height=175 src = "https://github-readme-stats.vercel.app/api/top-langs?username=jajosheni&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=27&locale=en&layout=compact" alt="shenihamitaj" />
 </p>
  
-<h4 align="center">Latest main technologies I've been working with:<h4>
+<h4 align="center">Main technologies I've been working with:<h4>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg"></a>
@@ -20,4 +20,6 @@
   <a href="https://reactjs.org/" target="_blank"><img title="ReactJS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/react-original.svg"></a>
   <a href="https://nuxtjs.org/" target="_blank"><img title="NuxtJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></a>
   <a href="https://vuejs.org/" target="_blank"><img title="VueJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></a>
+  <a href="https://www.php.net/" target="_blank"><img title="PHP" height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
+  <a href="https://laravel.com/" target="_blank"><img title="Laravel" height="25" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a>
 </p>

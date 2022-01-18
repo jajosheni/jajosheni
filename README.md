@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=jajosheni&theme=onedark&row=1&column=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jajosheni&theme=monokai&row=1&column=4"/>
 </p>
  
 <h4 align="center">Main technologies I've been working with:<h4>

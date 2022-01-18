@@ -24,4 +24,4 @@
   <a href="https://laravel.com/" target="_blank"><img title="Laravel" height="25" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"></a>
 </p>
 </br>
-![snake gif](https://github.com/jajosheni/jajosheni/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jaojsheni/jajosheni/blob/output/github-contribution-grid-snake.gif)
